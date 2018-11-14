@@ -1,6 +1,6 @@
 ## my cool physics shit
 
-oh man this is sick
+oh man this is sick [Home page](https://github.com/laoxiaojia/testsite/edit/master/index.html)
 
 You can use the [editor on GitHub](https://github.com/laoxiaojia/testsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
